@@ -12,6 +12,7 @@ Hello Azumi Desu !!
 ![R (2)](https://github.com/Azumi67/PrivateIP-Tunnel/assets/119934376/a064577c-9302-4f43-b3bf-3d4f84245a6f)
 نام پروژه : پورت فوروارد TCP & UDP با IPSEC
 ---------------------------------------------------------------
+**این پروژه  متعلق به سازنده azumi67 با صفحه گیت هاب https://github.com/Azumi67 که موقتا غیرفعال شده , هست .**
 
 ![check](https://github.com/Azumi67/PrivateIP-Tunnel/assets/119934376/13de8d36-dcfe-498b-9d99-440049c0cf14)
 **امکانات**
